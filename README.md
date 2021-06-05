@@ -46,5 +46,3 @@ No Activity tracked this Week
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyor-sharifjonov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </p>
 </div>
-
-
