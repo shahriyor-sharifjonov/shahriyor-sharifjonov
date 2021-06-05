@@ -21,3 +21,4 @@
 <img align="left" alt="Sass" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQnR9v6dz-WclZyXLZU6l8yuohRJ9Fe69vcJuICc2lt6LTb8ic6iuXhE6e2GSIdDhwRck&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://northcreation.agency/assets/Uploads/VSCode.png" />
 <img align="left" alt="Git" width="26px" src="https://www.campusmvp.es/catalogo/repository/product/curso-git.png" />
+<img align="left" alt="Node" width="26px" src="https://pbs.twimg.com/media/DeXrm8hX0AEuuGq.jpg" />
