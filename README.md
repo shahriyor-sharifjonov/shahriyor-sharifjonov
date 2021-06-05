@@ -20,7 +20,7 @@
 <img align="left" alt="Sass" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQnR9v6dz-WclZyXLZU6l8yuohRJ9Fe69vcJuICc2lt6LTb8ic6iuXhE6e2GSIdDhwRck&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/visual-studio.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/iconfinder_2993773_git_social%20media_icon_128px.png" />
-<img align="left" alt="Node" width="26px" src="https://pbs.twimg.com/media/DeXrm8hX0AEuuGq.jpg" />
+<img align="left" alt="Node JS" width="26px" src="https://codingfinder.com/wp-content/uploads/2019/12/nodejslogo.png" />
 
 <br>
 
