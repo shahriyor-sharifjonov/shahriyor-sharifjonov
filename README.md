@@ -6,6 +6,8 @@
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding.gif" width="408" height="318" />
 
+**Talking about Personal Stuffs:**
+
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning everything
 ##
