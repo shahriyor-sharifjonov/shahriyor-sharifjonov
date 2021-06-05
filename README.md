@@ -1,10 +1,7 @@
 ### Hi there 👋
-
-
 ## 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning everything
-
 ##
 ### Languages and Tools:
 
@@ -34,8 +31,8 @@ No Activity tracked this Week
 
 <div display="flex">
   <p>
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=shahriyor-sharifjonov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyor-sharifjonov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=shahriyor-sharifjonov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyor-sharifjonov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </p>
 </div>
 
