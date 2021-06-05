@@ -21,14 +21,14 @@
 
 ##
 
-<!-- <details> -->
-<!--   <summary>:zap: Recent GitHub Activity</summary> -->
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Created new repository [GART](https://github.com/shahriyor-sharifjonov/gart) -->
-<!--END_SECTION:activity-->
 
-<!-- </details> -->
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
 
 📈 **My GitHub Stats:**
 
