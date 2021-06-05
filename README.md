@@ -22,3 +22,16 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://northcreation.agency/assets/Uploads/VSCode.png" />
 <img align="left" alt="Git" width="26px" src="https://www.campusmvp.es/catalogo/repository/product/curso-git.png" />
 <img align="left" alt="Node" width="26px" src="https://pbs.twimg.com/media/DeXrm8hX0AEuuGq.jpg" />
+
+<br>
+
+##
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Created new repository [GART](https://github.com/shahriyor-sharifjonov/gart)
+<!--END_SECTION:activity-->
+
+</details>
