@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sharifjonov_shahriyor/)
 ## 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning everything
