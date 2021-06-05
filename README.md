@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sharifjonov_shahriyor/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Shahriyor0077)
+[![](https://visitor-badge.glitch.me/badge?page_id=shahriyor-sharifjonov.shahriyor-sharifjonov)]()
+
 ## 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning everything
