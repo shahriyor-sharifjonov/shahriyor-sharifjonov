@@ -13,7 +13,7 @@
 ##
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD2APNZeHXaSogF8b_YZyz5IAyXZR9rsWvRyB2rb5LBb1hOCz8qwmo-_a3NlcWjg34ko&usqp=CAU" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--IckYnXfR--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://thepracticaldev.s3.amazonaws.com/i/2gtqqlfraqi3ljmtt5at.jpg" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Gulp" width="26px" src="https://mwcoders.com/wp-content/uploads/2018/02/gulpjs-logo.jpg" />
