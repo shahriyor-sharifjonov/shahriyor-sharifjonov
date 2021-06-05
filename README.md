@@ -4,7 +4,7 @@
 [![](https://visitor-badge.glitch.me/badge?page_id=shahriyor-sharifjonov.shahriyor-sharifjonov)]()
 
 ## 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
