@@ -2,14 +2,8 @@
 
 
 ## 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ##
 ### Languages and Tools:
@@ -27,11 +21,11 @@
 
 ##
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<!-- <details> -->
+<!--   <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
-1. 🗣 Created new repository [GART](https://github.com/shahriyor-sharifjonov/gart)
+<!-- 1. 🗣 Created new repository [GART](https://github.com/shahriyor-sharifjonov/gart) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
