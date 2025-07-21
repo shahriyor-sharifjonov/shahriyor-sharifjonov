@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">Привет, я Shahriyor Sharifjonov 👋</h1>
+<h1 align="center">Hi, I'm Shahriyor Sharifjonov 👋</h1>
 
 <p align="center">
-  <b>Fullstack developer с опытом 5 лет</b><br/>
-  Люблю современные веб-технологии, пишу чистый и поддерживаемый код, всегда открыт к новым знаниям и интересным проектам.
+  <b>Fullstack developer with 5 years of experience</b><br/>
+  Passionate about modern web technologies, I write clean and maintainable code, and I'm always open to learning new things and working on exciting projects.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Любимые технологии
+## 🛠️ Favorite Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahriyor-sharifjonov&show_icons=true&theme=react&hide_border=true" height="180"/>
@@ -44,7 +44,7 @@
 ---
 
 <!--
-Если хочешь добавить больше информации о себе, просто отредактируй этот файл!
+If you want to add more information about yourself, just edit this file!
 -->
 
 
