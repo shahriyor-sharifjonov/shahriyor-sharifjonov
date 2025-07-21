@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Shahriyor Sharifjonov 👋</h1>
+<h1 align="center">Hi, I'm Shakhriyor 👋</h1>
 
 <p align="center">
   <b>Fullstack developer with 5 years of experience</b><br/>
